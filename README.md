@@ -1,10 +1,10 @@
 👋 Olá, eu sou o @gabrielcarreira!
 
 ### 💻 Sobre mim
-Sou Motion Designer profissional há 6 anos e Desenvolvedor Indie há 3 anos. Tenho experiência em criação de scripts e extensões para o After Effects e atualmente estou me encontrando em desenvolvimento Full Stack com NodeJS (React, Next, Material UI, Vue, Nuxt, Express, Sequelize, Adonis).
+Sou Motion Designer profissional há 7 anos e Desenvolvedor Indie há 4 anos. Tenho experiência em criação de scripts e extensões para o After Effects e atualmente estou me encontrando em desenvolvimento Full Stack com NodeJS (ReactJS, NextJS, Material UI, VueJS, Nuxt, Express, Sequelize, Adonis).
 
 ### 🚀 Projetos
-Sou fundador da Brazu, uma empresa de tecnologia focada em ferramentas para Designers e Motions que querem criar vídeos animados com agilidade. Também sou criador do plugin Brazuca Motion para o After Effects que atingiu 4.500 usuários e do recém-lançado bot do Telegram Copybots, que faz copys e textos com inteligência artificial.
+Sou fundador da Brazu, uma empresa de tecnologia focada em ferramentas para Designers e Motions que querem criar vídeos animados com agilidade. Também sou criador do plugin Brazuca Motion para o After Effects que atingiu 5000+ usuários.
 
 ### 📚 Ensino
 Gosto de compartilhar meus conhecimentos e ensino a fazer expressões para o After Effects. Atualmente, sou estudante de administração da Faculdade de Economia, Administração e Contabilidade (FEA) da Universidade de São Paulo (USP).
