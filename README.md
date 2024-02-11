@@ -1,19 +1,12 @@
-👋 Olá, eu sou o @gabrielcarreira!
+👋 Hi, I'm @gabrielcarreira!
 
-### 💻 Sobre mim
-Sou Motion Designer profissional há 7 anos e Desenvolvedor Indie há 4 anos. Tenho experiência em criação de scripts e extensões para o After Effects e atualmente estou me encontrando em desenvolvimento Full Stack com NodeJS (ReactJS, NextJS, Material UI, Express, Sequelize, Adonis).
+### About me
+Combining 7+ years as a Motion Designer with 4 years as an Indie Developer. I specialize in crafting After Effects scripts & extensions and am passionate about Full Stack development, focusing on the NodeJS ecosystem.
 
-### 🚀 Projetos
-Sou fundador da Brazu, uma empresa de tecnologia focada em ferramentas para Designers e Motions que querem criar vídeos animados com agilidade. Também sou criador do plugin Brazuca Motion para o After Effects que atingiu 5000+ usuários.
-
-### 📚 Ensino
-Gosto de compartilhar meus conhecimentos e ensino a fazer expressões para o After Effects. Atualmente, sou estudante de administração da Faculdade de Economia, Administração e Contabilidade (FEA) da Universidade de São Paulo (USP).
-
-### 🤝 Colaboração
-Estou sempre interessado em conhecer novas pessoas e oportunidades de colaboração.
-
-### 📧 Entre em contato
-Você pode me [encontrar no Twitter](https://twitter.com/gabrie1carreira) para conversarmos mais!
+### Projects & Contributions
+- [Brazu](https://brazu.io/): Co-founder & CTO, with Brazu everybody can ceate videos in a few clicks with plugins for After Effects ([Official Adobe Partner](https://www.adobevideopartner.com/partners/brazu/))
+- Keyflames: Founder, it's an Open Source plugin for convert After Effects animations to animated SVG, no JS required (Not released yet)
+- [LottieFiles Creator](https://creator.lottiefiles.com/): Ex Plugin Engineer at Creator, a web-based editor for creating animations optimized for the Lottie format
 
 <!---
 gabrielcarreira/gabrielcarreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
